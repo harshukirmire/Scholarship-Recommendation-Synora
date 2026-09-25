@@ -1,0 +1,8 @@
+{
+  "name": "SYNORA - Scholarship Platform",
+  "description": "Verified scholarship discovery, matching engine, and application tracker with Gemini AI Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
